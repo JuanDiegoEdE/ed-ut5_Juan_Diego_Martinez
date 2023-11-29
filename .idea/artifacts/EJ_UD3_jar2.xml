@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EJ_UD3:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/EJ_UD3_jar2</output-path>
+    <root id="archive" name="EJ_UD3.jar">
+      <element id="module-output" name="EJ_UD3" />
+    </root>
+  </artifact>
+</component>
