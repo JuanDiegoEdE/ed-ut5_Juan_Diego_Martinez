@@ -36,3 +36,15 @@ public class Fibonacci {
         return resultado;
     }
 }
+
+try {
+        num = sc.nextInt();
+        } catch (InputMismatchException e) {
+        System.out.println("Por favor, ingrese un número válido.");
+        return;
+        }
+
+
+
+
+
